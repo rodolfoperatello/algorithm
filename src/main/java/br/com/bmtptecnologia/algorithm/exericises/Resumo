@@ -1,0 +1,2 @@
+
+ArrayList não aceita tipo primitivo, Ex: ArrayList<int> não é possível
