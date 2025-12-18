@@ -1,2 +1,6 @@
 
 ArrayList não aceita tipo primitivo, Ex: ArrayList<int> não é possível
+
+Para tamanho de String -> input.lenght();
+
+Para tamanho de char[] -> list.lenght -> ["a", "b", c"] tem um lenght = 3 mas os índices 0, 1, 2
