@@ -1,6 +1,16 @@
 
-ArrayList não aceita tipo primitivo, Ex: ArrayList<int> não é possível
+[ ArrayList ]
+- Não aceita tipo primitivo, Ex: ArrayList<int> não é possível
 
-Para tamanho de String -> input.lenght();
+Para tamanho de String -> input.length();
 
-Para tamanho de char[] -> list.lenght -> ["a", "b", c"] tem um lenght = 3 mas os índices 0, 1, 2
+
+[ String ]
+- Utiliza o método length() para saber o tamanho da string;
+- Utilizar o charAt(i) para saber a letra em uma posição específica;
+- Para transformar em char[] utiliza o método toCharArray();
+
+[ char ]
+
+- Utiliza o lenght (sem chamada de método) para saber o tamanho
+
