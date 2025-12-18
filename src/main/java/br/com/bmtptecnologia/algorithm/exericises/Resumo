@@ -1,6 +1,9 @@
 
 [ ArrayList ]
 - Não aceita tipo primitivo, Ex: ArrayList<int> não é possível
+- Para saber o tamanho usa o método size();
+- Para pegar o primeiro elemento usa o método getFirst();
+- Para pegar o ultimo elemento usa o método getLast();
 
 Para tamanho de String -> input.length();
 
