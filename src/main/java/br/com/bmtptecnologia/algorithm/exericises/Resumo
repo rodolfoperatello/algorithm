@@ -9,6 +9,7 @@ Para tamanho de String -> input.length();
 - Utiliza o método length() para saber o tamanho da string;
 - Utilizar o charAt(i) para saber a letra em uma posição específica;
 - Para transformar em char[] utiliza o método toCharArray();
+- Para comparar string utiliza o método equals();
 
 [ char ]
 
