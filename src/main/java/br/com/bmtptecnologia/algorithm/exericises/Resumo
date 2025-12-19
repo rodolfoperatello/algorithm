@@ -18,3 +18,6 @@ Para tamanho de String -> input.length();
 
 - Utiliza o lenght (sem chamada de método) para saber o tamanho
 
+[ matriz ]
+
+- Declara como  int[][] matrix = new int[lines][columns];
